@@ -15,6 +15,6 @@ $user_url = "http://www.your-domain.com";
 $display_name = "Display Name";
 {% endhighlight %}
 
-[generate-wp-admin.php]: https://gist.github.com/websitedesignby/e0e0f379553bad3da9c59e12e4f4d9a4
+[generate-wp-admin.php](https://gist.github.com/websitedesignby/e0e0f379553bad3da9c59e12e4f4d9a4)
 
 
