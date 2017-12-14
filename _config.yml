@@ -16,7 +16,7 @@
 title: Ross Sabes - Github
 email: ross@webdesignby.com
 description: >- # this means to ignore newlines until "baseurl:"
-Web design, programming, SEO and marketing.
+"Web design, programming, SEO and marketing."
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://websitedesignby.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: webdesignby
